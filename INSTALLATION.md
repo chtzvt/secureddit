@@ -53,7 +53,7 @@ If you DON'T see a green lock symbol next to  https://pay.reddit.com/ in your UR
 
 *Is it in its latest version?
 
-*Are you using reddit.com and not np.reddit.com/fr.reddit.com/es.reddit.com/etc? (Sorry, international users,  pay.reddit.com is only in english! :( )
+*Are you using reddit.com and not np.reddit.com/fr.reddit.com/es.reddit.com/etc...? (I will add this functionality soon in an update.)
 
 *Are you using the latest version of Chrome?
 
