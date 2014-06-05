@@ -25,6 +25,18 @@ HTTP vs. HTTPS is comparable to sending something on a postcard (where there's n
 
 Because of this, all major websites have turned on HTTPS by default, except for our beloved Reddit (Who's administrators have been dragging their feet on the issue for whatever reason), which necessitates this extension to supplement our needs for security on today's web.
 
+If you'd like an explaination that's a bit more in depth, check out this video:
+www.youtube.com/watch?v=JCvPnwpWVUQ
+
+**Alright, I understand what HTTPS is and why encryption is important, but what's all this https://pay.reddit.com business?
+
+https://pay.reddit.com is the URL that Reddit uses to provide a secure area for users to make payments (Such as buying Reddit Gold, or Reddit-themed merchandise, etc.) 
+
+Using encryption on such a page is an obvious necessity, as it keeps your credit card and personal information safe and encrypted. 
+
+Interestingly enough, this URL also works on the entire site, so any reddit.com link is also an https://pay.reddit.com link.
+
+
 **I can haz source?
 Sure! It's on GitHub at: https://github.com/ctrezevant/secureddit/
 
