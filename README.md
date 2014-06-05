@@ -44,3 +44,14 @@ Sure! It's on GitHub at: https://github.com/ctrezevant/secureddit/
 The best part is, this extension accomplishes all of this quickly, automatically, and in the background. You just install it and you never have to think about it again.
 
 Sleep peacefully, fellow redditors, knowing that you can now waste time on Reddit securely. 
+Also, don't forget to spread the world about SecuReddit, and message the admins about enabling HTTPS by default!
+
+
+NOTE TO INTERNATIONAL USERS/USERS WHO SPEAK A LANGUAGE OTHER THAN ENGLISH:
+This extension has full support for all languages on reddit, provided that you have set your language
+as the default in your account preferences. 
+
+If you haven't done that, go to reddit.com/prefs/ and set "Interface language" to your language of choice.
+
+From now on, use reddit.com instead of (your languace code).reddit.com. 
+The interface will be in english at first, but it will automatically change to your language once you log in. 
