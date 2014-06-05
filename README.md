@@ -53,5 +53,5 @@ as the default in your account preferences.
 
 If you haven't done that, go to reddit.com/prefs/ and set "Interface language" to your language of choice.
 
-From now on, use reddit.com instead of (your languace code).reddit.com. 
+From now on, use reddit.com instead of (your language code).reddit.com. 
 The interface will be in english at first, but it will automatically change to your language once you log in. 
