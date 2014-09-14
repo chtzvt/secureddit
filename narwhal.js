@@ -1,5 +1,5 @@
 /*
-Reddit automatic SSL extension  for Google Chrome version 1.0
+Reddit automatic SSL extension  for Google Chrome version 2.0
 Copyright (c) 2014 Charlton Trezevant
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -25,10 +25,10 @@ Hefty lisence for such a small bit of software, eh? :P
 
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) {
-      sslreddit = details.url.replace("http://www.", "https://pay.")
+      sslreddit = details.url.replace("http://", "https://")
          return {redirectUrl: sslreddit};},
-         
-    { urls: ["http://www.reddit.com/*", "http://*.reddit.com/*"],
+
+    { urls: ["http://*.reddit.com/*"],
       types: ["main_frame", "sub_frame", "stylesheet", "script", "image", "object", "xmlhttprequest", "other"] },
     ["blocking"]
 );
