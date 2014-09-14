@@ -1,5 +1,37 @@
 secureddit
 ==========
+--------------------- IMPORTANT!! ---------------------
+
+Version 2.0 and Reddit finally doing the inevitable!
+
+Good news, everybody! You don't need this extension anymore!
+
+Reddit has finally implemented HTTPS, and it's about damn time, too!
+
+
+Check out the blog post: http://www.redditblog.com/2014/09/hell-its-about-time-reddit-now-supports.html
+
+To enable the feature, go to this page: https://ssl.reddit.com/prefs/security/
+
+OR
+
+Simply use https://www.reddit.com.
+
+OR
+
+Add Reddit to the wonderful HTTPS Everywhere extension. 
+
+Enjoy!!
+
+NOTE:
+
+I'll be leaving this extension on the webstore for people that still want it.
+The latest update stops directing people to pay.reddit.com and instead directs them to http://reddit.com. 
+
+Users should just migrate to HTTPS Everywhere at this point :)
+
+
+----------------------------------------
 
 SSL extension for Reddit
 
