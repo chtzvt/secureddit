@@ -26,7 +26,7 @@ Enjoy!!
 NOTE:
 
 I'll be leaving this extension on the webstore for people that still want it.
-The latest update stops directing people to pay.reddit.com and instead directs them to http://reddit.com. 
+The latest update stops directing people to pay.reddit.com and instead directs them to https://reddit.com. 
 
 Users should just migrate to HTTPS Everywhere at this point :)
 
